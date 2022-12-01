@@ -14,21 +14,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
+global.vcardowner = ['6285757657796'] //ur owner number
+global.ownername = "Rvan" //ur owner name
+global.developer = "Rvan" //nama lu
+global.ytname = "YT: gk ada" //ur yt chanel name
 global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
+global.owner = ['6285757657796'] //ur number
+global.ownernomer = "6285757657796" //ur number
+global.ownertag = '6285757657796' //ur tag number
+global.premium = ['6285757657796'] //ur premium number
+global.botname = '🅿🆁🅾🆈🅴🅺 🅶🅱🆃' //ur bot name
+global.ownername = "𝙍𝙫𝙖𝙣"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
 global.dana = "6285850539404"
 global.pulsa = "6285850539404"
